@@ -10,7 +10,7 @@ A C program designed for calculating the determinants of 2x2 and 3x3 matrices. D
 - **University:** Ladoke Akintola University of Technology
 
 ### Group Members
-
+-Abiodun Oluwanishola
 -
 
 ### Features
