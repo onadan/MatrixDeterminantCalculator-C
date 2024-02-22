@@ -4,7 +4,7 @@
 A C program designed for calculating the determinants of 2x2 and 3x3 matrices. Developed by a collaborative team of computer science students from Ladoke Akintola University of Technology as part of a course SWEP project. Ideal for educational purposes and showcases C programming skills.
 
 ### Project Team
-- **Supervisor:** Prof. Adeosun
+- **Supervisor:** Prof. Ismaila
 - **University:** Ladoke Akintola University of Technology
 
 ### Group Members
@@ -12,6 +12,7 @@ A C program designed for calculating the determinants of 2x2 and 3x3 matrices. D
 - Olusoji oluwatomiwa 
 - Adeyemo Victor M.
 - Mr Jay
+- Onaolapo Daniel
 
 ### Features
 - Calculates determinants of 2x2 and 3x3 matrices.
