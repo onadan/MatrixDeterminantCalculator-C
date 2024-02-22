@@ -11,7 +11,8 @@ A C program designed for calculating the determinants of 2x2 and 3x3 matrices. D
 
 ### Group Members
 -Abiodun Oluwanishola
--Olusoji oluwatomiwa 
+-Olusoji oluwatomiwa
+ 
 -Adeyemo Victor M.
 ### Features
 
