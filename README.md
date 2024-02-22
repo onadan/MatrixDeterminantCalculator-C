@@ -21,7 +21,7 @@ A C program designed for calculating the determinants of 2x2 and 3x3 matrices. D
 
 ### Acknowledgments
 
-- Special thanks to Prof. Adeosun for supervision.
+- Special thanks to Prof. Ismaila for supervision.
 
 ### License
 
