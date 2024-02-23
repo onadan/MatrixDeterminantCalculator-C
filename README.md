@@ -14,6 +14,7 @@ A C program designed for calculating the determinants of 2x2 and 3x3 matrices. D
 - Mr Jay
 - Onaolapo Daniel
 - Oluwayemi Vincent
+- Akinyemi Ifeoluwa 
 
 ### Features
 - Calculates determinants of 2x2 and 3x3 matrices.
